@@ -31,7 +31,7 @@ See the section about [deployment](#deployment) for more information.
 
 
 
-### [GitHub Pages](https://pages.github.com/)
+## [GitHub Pages](https://pages.github.com/)
 
 >Note: this feature is available with `react-scripts@0.2.0` and higher.
 
